@@ -3,13 +3,13 @@
     {
       "device_id": "8fb7b160378f3430",
       "username": "عبد الصمد أيت القاضي",
-      "level": 5,
-      "days": 2,
+      "level": 0,
+      "days": 0,
       "hours": 0,
-      "country": "MA",
-      "avatar_id": "war",
-      "is_premium": "on"
+      "country": "",
+      "avatar_id": "default_ic",
+      "is_premium": "off"
     }
   ],
-  "last_update": "2026-02-13 17:23:36"
+  "last_update": "2026-03-09 13:49:37"
 }

@@ -2,14 +2,14 @@
   "users": [
     {
       "device_id": "8fb7b160378f3430",
-      "username": "nenejej",
-      "level": 0,
-      "days": 0,
+      "username": "Q",
+      "level": 1,
+      "days": 7,
       "hours": 0,
       "country": "",
       "avatar_id": "default_ic",
-      "is_premium": "off"
+      "is_premium": "on"
     }
   ],
-  "last_update": "2026-03-19 04:50:46"
+  "last_update": "2026-03-25 16:23:49"
 }
